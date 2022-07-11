@@ -1,0 +1,2 @@
+# tensorflow
+Got the following error:  2022-07-11 17:12:08.002713: W tensorflow/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'cudart64_110.dll'; dlerror: cudart64_110.d ll not found 2022-07-11 17:12:08.044103: I tensorflow/stream_executor/cuda/cudart_stub.cc:29] Ignore above cudart dlerror if you do not have a GPU set up on your machine.  Any thoughts on why this is showing?
